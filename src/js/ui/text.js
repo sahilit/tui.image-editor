@@ -30,7 +30,7 @@ class Text extends Submenu {
             textEffectButton: this.selector('.tie-text-effect-button'),
             textAlignButton: this.selector('.tie-text-align-button'),
             textColorpicker: new Colorpicker(
-                this.selector('.tie-text-color'), '#ffbb3b', this.toggleDirection, this.usageStatistics
+                this.selector('.tie-text-color'), '#ff0000', this.toggleDirection, this.usageStatistics
             ),
             textRange: new Range({
                 slider: this.selector('.tie-text-range'),

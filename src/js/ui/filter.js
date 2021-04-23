@@ -332,7 +332,7 @@ class Filter extends Submenu {
                 this.selector('.tie-filter-multiply-color'), '#515ce6', this.toggleDirection, this.usageStatistics
             ),
             filterBlendColor: new Colorpicker(
-                this.selector('.tie-filter-blend-color'), '#ffbb3b', this.toggleDirection, this.usageStatistics
+                this.selector('.tie-filter-blend-color'), '#ff0000', this.toggleDirection, this.usageStatistics
             )
         };
 

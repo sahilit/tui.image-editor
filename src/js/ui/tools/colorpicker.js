@@ -11,7 +11,7 @@ const PICKER_COLOR = [
     '',
     '#ff4040',
     '#ff6518',
-    '#ffbb3b',
+    '#ff0000',
     '#03bd9e',
     '#00a9ff',
     '#515ce6',
